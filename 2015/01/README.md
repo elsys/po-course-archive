@@ -17,20 +17,20 @@
 ## Задача 2
 След като имате инсталирана Linux дистрибуция, е време тя да бъде настроена. За целта инсталирайте Build Essentials.
 
-```
+```bash
 sudo apt-get update
 sudo apt-get install build-essentials
 ```
 
 Уверете се, че имате инсталиран git:
 
-```
+```bash
 git --version
 ```
 
 ако изпълнението на тази команда не върне нещо, инсталирайте git.
 
-```
+```bash
 sudo apt-get update
 sudo apt-get install git
 ```

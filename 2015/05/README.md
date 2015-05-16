@@ -7,7 +7,7 @@
 
 Пример, където range e N:
 
-```
+```bash
 Enter range: 20
 Enter length: 12
 Enter array: 9 8 7 7 8 2 3 4 1 0 1 2
@@ -31,7 +31,7 @@ N: ...
 Ако искаме да въведем текст за ширфоране, въвеждаме “c” и след него текста за шифроване, a ако искаме да въведем текст за дешифроване, въвеждаме “d” и шифрования текст.
 Пример:
 
-```
+```bash
 Enter option: c Secret message...
 …
 Enter option: d BlaBla Ne60 Kriptiran0

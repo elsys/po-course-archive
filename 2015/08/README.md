@@ -3,7 +3,7 @@
 
 Имате следният код:
 
-```
+```c++
 #include <stdio.h>
 #include <stdlib.h>
 // index, size, data

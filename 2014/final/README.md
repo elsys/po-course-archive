@@ -1,8 +1,8 @@
 # Програмно осигуряване - 2014
 ## Контролни за оформяне на срочен успех
 
-- (01)[README.md]
-- (02)[README.md]
-- (03)[README.md]
-- (04)[README.md]
-- (05)[README.md]
+- [01](01/README.md)
+- [02](02/README.md)
+- [03](03/README.md)
+- [04](04/README.md)
+- [05](05/README.md)

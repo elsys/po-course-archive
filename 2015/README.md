@@ -2,6 +2,8 @@
 
 ## [Конспект](SUMMARY.md)
 
+## [Консултации](consultation/README.md)
+
 ## Домашни
 - [Първо домашно](01/README.md)
 - [Второ домашно](02/README.md)
